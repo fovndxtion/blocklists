@@ -5,8 +5,7 @@ Created for personal use, shared with everyone
 
 ### Agressive Redirects
 
-> [!NOTE]
-> Prevents aggressive redirects that often lead to advertising, malware, and questionable sites
+Prevents aggressive redirects that often lead to advertising, malware, and questionable sites
 
 **Supported by:**
 
