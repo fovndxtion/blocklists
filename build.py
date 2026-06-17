@@ -31,7 +31,7 @@ def update_blocklist(file_path):
     now = datetime.datetime.now(timezone_moscow)
     
     last_modified_str = now.strftime("%d %b %Y %H:%M GMT+3")
-    version_str = now.strftime("%Y%m%d.%H:%M")
+    version_str = now.strftime("%Y%m%d.%H%M")
 
     updated_header = []
     for line in header_lines:
