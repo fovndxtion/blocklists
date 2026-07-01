@@ -5,22 +5,24 @@
 ! License: https://github.com/fovndxtion/blocklists/blob/main/LICENSE
 ! Disclaimer: https://github.com/fovndxtion/blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Jun 2026 06:29 GMT+3
-! Version: 20260619.0629
+! Last modified: 01 Jul 2026 03:48 GMT+3
+! Version: 20260701.0348
 ! Syntax: AdBlock
-! Number of entries: 29
+! Number of entries: 33
 !
 ||aksfkedagaz.com^
 ||azgpciab.com^
 ||azqaknoksow.in^
 ||bwakuhrazsc.in^
 ||caxdabhmyomd.in^
+||dcibpijra.in^
 ||favbwypuna.in^
 ||froxuqviwh.com^
 ||gabomrqaxnu.com^
 ||gmakzazaqoz.com^
 ||gtithiojf.com^
 ||hatofdap.com^
+||hutocmag.in^
 ||jadjkuofzwad.com^
 ||jizfreozfo.in^
 ||leafytrust.com^
@@ -36,6 +38,8 @@
 ||qipvfaoz.com^
 ||radztovihxig.com^
 ||skafufotr.in^
+||smeqikdpiald.in^
 ||tamiros.com^
+||vceolgcavo.in^
 ||xcyzuhpweo.com^
 ||zanontodg.com^
